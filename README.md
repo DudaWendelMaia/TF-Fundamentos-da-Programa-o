@@ -1,2 +1,2 @@
-# TF-Fundamentos-da-Programa-o
+# TF-Fundamentos-da-Programacao
 Trabalho Final Fundamentos da Programação
